@@ -1,0 +1,12 @@
+# Ignore all object files recursively
+*.o
+*.obj
+
+# (optional) ignore static libraries
+*.a
+*.lib
+
+# (optional) ignore build folders
+/build/
+/out/
+/bin/
